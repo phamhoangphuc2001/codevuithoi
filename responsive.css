@@ -1,0 +1,15 @@
+@media screen and (min-width:200px){
+    #again{
+        right: 4%;
+    }
+}
+@media screen and (min-width:760px){
+    #again{
+        right: 20%;
+    }
+}
+@media screen and (min-width:1024px){
+    #again{
+        right: 22%;
+    }
+}
